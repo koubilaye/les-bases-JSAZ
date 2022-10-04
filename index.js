@@ -1,0 +1,1 @@
+alert("le fichier fonctionne");
