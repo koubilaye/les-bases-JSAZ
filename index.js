@@ -1,1 +1,0 @@
-alert("le fichier fonctionne");
